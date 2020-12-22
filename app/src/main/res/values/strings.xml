@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Amazing Food</string>
+
+    <string name="search_your_recipes">Search Your Recipes…</string>
+    <string name="meal_categories">Meal Categories</string>
+    <string name="category">Category</string>
+    <string name="country">Country</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="dot_loading">...</string>
+    <string name="Ingredients">INGREDIENTS</string>
+    <string name="youtube">YOUTUBE</string>
+    <string name="source">SOURCE</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="amazing_eat">AMAZING EAT</string>
+    <string name="Lets_eat_and_make_some_food">Lets eat and make some foods</string>
+    <string name="version">v 0.0.1</string>
+</resources>
